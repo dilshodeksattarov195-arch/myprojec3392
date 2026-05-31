@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusteruetch",
+        "uuid": 29066048,
+        "checksum": "4q6oqd"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
